@@ -2376,4 +2376,40 @@ no changes added to commit (use "git add" and/or "git commit -a")
 [2015.04.15-04.46.48:597][952]LogSourceControl: RunCommandInternalRaw: 'git status --porcelain --ignored "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
 [2015.04.15-04.46.48:619][952]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults=' M Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
 '
-[2015.04.15-04.46.48:651][952]LogSourceControl: RunCommandInternalRaw: 'git comm
+[2015.04.15-04.46.48:651][952]LogSourceControl: RunCommandInternalRaw: 'git commit --file="C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Saved/Logs/Git-TempFC40554D4AAFA4F2CF0DAB957A6CD768.txt" "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
+[2015.04.15-04.46.51:060][952]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults='[master e83434e] Test 2
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+'
+[2015.04.15-04.46.51:060][952]LogSourceControl: FGitCheckInWorker: commit successful
+[2015.04.15-04.46.51:060][952]LogSourceControl: RunCommandInternalRaw: 'git status --porcelain --ignored "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
+[2015.04.15-04.46.51:080][952]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults=''
+[2015.04.15-04.46.51:080][952]SourceControl: Info [master e83434e] Test 2
+[2015.04.15-04.46.51:080][952]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2015.04.15-04.46.51:088][952]SourceControl: Info Commited [master e83434e] Test 2.
+[2015.04.15-04.46.51:096][953]LogSourceControl: RunCommandInternalRaw: 'git status --porcelain --ignored "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
+[2015.04.15-04.46.51:106][954]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults=''
+[2015.04.15-04.46.53:589][ 33]SourceControl:Error: Error Operation 'Sync' not supported by source control provider 'Git'
+[2015.04.15-04.47.05:655][433]SourceControl:Error: Error Operation 'Sync' not supported by source control provider 'Git'
+[2015.04.15-04.47.59:187][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2015.04.15-04.48.04:866][131]LogEditorViewport: Clicking on Actor (LMB): Actor (Actor)
+[2015.04.15-04.48.05:421][152]Cmd: DELETE
+[2015.04.15-04.48.05:421][152]Cmd: ACTOR DELETE
+[2015.04.15-04.48.05:422][152]LogEditorActor: Deleted Actor: Actor
+[2015.04.15-04.48.05:435][152]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2015.04.15-04.48.05:785][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2015.04.15-04.48.06:136][178]Cmd: DELETE
+[2015.04.15-04.48.06:136][178]Cmd: ACTOR DELETE
+[2015.04.15-04.48.06:137][178]LogEditorActor: Deleted Actor: StaticMeshActor
+[2015.04.15-04.48.06:148][178]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2015.04.15-04.48.14:406][238]LogSourceControl: RunCommandInternalRaw: 'git status --porcelain --ignored "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
+[2015.04.15-04.48.14:428][238]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults=''
+[2015.04.15-04.48.17:703][238]LogSavePackage: Save=3197.461914ms
+[2015.04.15-04.48.17:703][238]LogSavePackage: Moving '../../../../../../Users/Matthew/Documents/Unreal Projects/GroupProject/Saved/ThirdPersonExampleMapD989A38145E1D24E737887950C848E1A.tmp' to '../../../../../../Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2015.04.15-04.48.17:734][239]LogSourceControl: RunCommandInternalRaw: 'git status --porcelain --ignored "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
+[2015.04.15-04.48.17:748][241]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults=' M Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+'
+[2015.04.15-04.50.17:498][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2015.04.15-04.50.23:792][494]LogSourceControl: RunCommandInternalRaw: 'git status --porcelain --ignored "C:/Users/Matthew/Documents/Unreal Projects/GroupProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap"'
+[2015.04.15-04.50.23:818][494]LogSourceControl: RunCommandInternalRaw: ExecProcess ReturnCode=0 OutResults=''
+[2015.04.15-04.50.26:910][494]LogSavePackage: Save=3014.865967ms
+[2015.04.15-04.50.26:910][494]LogSavePackage: Moving 
